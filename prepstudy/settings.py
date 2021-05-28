@@ -25,7 +25,7 @@ SECRET_KEY = 'dmj4j@q%r@3+k22jo!-*^ehtrg!m)o8_56l7o=je!h2av&r2fd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['prepstudyon.herokuapp.com']
 
 
 # Application definition
