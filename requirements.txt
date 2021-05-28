@@ -2,3 +2,5 @@ Django==3.2.3
 pandas==1.2.4
 xlrd==1.2.0
 openpyxl==2.5.1
+gunicorn==19.9.0
+django-heroku==0.3.1
